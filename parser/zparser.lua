@@ -1,7 +1,7 @@
 local Unlocker, Caffeine, zparser = ...
 print("ZygorParser Loaded")
 print("Click the button to turn on/off")
-print("If you run into any errors, please report them to Nova")
+print("If you run into any errors, please report them to Nova1")
 
 local Zygor = Caffeine.Module:New('addon')
 local Target = Caffeine.UnitManager:Get("target")
